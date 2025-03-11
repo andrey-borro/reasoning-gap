@@ -4,10 +4,6 @@ The only requirement for this code is Python (my current version is 3.11) and th
 
 Repository Structure:
 
-<style>
-  pre { font-size: 12px; border:1px solid #ccc; padding:10px; border-radius:5px; background:#f8f9fa;}
-</style>
-
 <pre>
 🛠️ reasoning-gap
 ├── 📁 examples                                         # Example output files from main.ipynb
