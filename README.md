@@ -1,17 +1,17 @@
-This is the code release for the paper Bridging the Reasoning Gap: Small LLMs Can Plan with Generalised Strategies. It contains all the neccessary code to replicate the results of the paper, the results themselves and the code to generate every table used in the paper. 
+This is the code release for the paper [Bridging the Reasoning Gap: Small LLMs Can Plan with Generalised Strategies](https://arxiv.org/abs/2501.18817). It contains all the neccessary code to replicate the results of the paper, the results themselves, most responses from the LLMs used and the code to generate the tables found in the paper. 
 
-The only requirement for this code is Python (my current version is 3.11) and the openai module. The version number used by the authors can be found in requirements.txt.
+The only requirement for this code is Python (my current version is `3.11`) and the `openai` module. The version number used by the authors can be found in `requirements.txt`.
 
 Repository Structure:
 
 <pre>
 🛠️ reasoning-gap
-├── 📁 examples                                         # Example output files from main.ipynb
-│   ├── 📁 problem_sets                                 # Main entry point
+├── 📁 examples                                         
+│   ├── 📁 problem_sets                                 
 │   │   ├── 📄 crt_problem_set.json 
-│   │   ├── 📄 example_blocksworld_set.json             # App initialization
+│   │   ├── 📄 example_blocksworld_set.json             
 │   ├── 📁 responses
-│   │   ├── 📁 blocksworld                              # Reusable components
+│   │   ├── 📁 blocksworld                              
 │   │   │   ├── 📁 strategy_1_example_set
 │   │   │   │   ├── 📁 round_0
 │   │   │   │   │   ├── 📄 prob_0000_response.json
@@ -25,11 +25,11 @@ Repository Structure:
 │   │   │   ├── 📄 answers_example_round_2.json
 │   ├── 📁 strategies
 │   │   ├── 📁 blocksworld
-│   │   │   ├── 📄 strategy_1.json                         # Reusable components
+│   │   │   ├── 📄 strategy_1.json                         
 │   │   │   ├── 📁 responses
 │   │   │   │   ├── 📄 strategy_1_response.json
 │   │   ├── 📁 crt
-│   │   │   ├── 📄 strategy_1.json                         # Reusable components
+│   │   │   ├── 📄 strategy_1.json                         
 │   │   │   ├── 📁 responses
 │   │   │   │   ├── 📄 strategy_1_response.json
 ├── 📁paper_data
