@@ -1,0 +1,227 @@
+{
+  "crt_prob_0015": {
+    "question": "There is a heap of fruit that is decaying. The quantity of spoiled fruit doubles every 3X days. If it requires 10Y days for the entire heap to decay, how much time will it take for 1/2 of the heap to decay? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0018": {
+    "question": "A colony of bacteria is growing on yogurt, and the size of the colony triples every 5X days. If it takes 7Y days for the colony to completely cover the yogurt, how many days does it take for the patch to cover 1/9 of the yogurt? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 10
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 10
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0023": {
+    "question": "A forest is expanding on an island, with the area occupied by the trees quadrupleing every 3X years. If it takes 9Y years for the entire island to be covered with trees, how many years would it take for the forest to cover 1/4 of the island? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0026": {
+    "question": "The wood is burning in a fireplace, and the temperature doubles every 5X minutes. If it takes 10Y minutes for the fireplace to reach a temperature of 64 degrees, how long does it take for the temperature to reach 8 degrees? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0027": {
+    "question": "Bamboo is growing in the garden, and its height quintuples every 3X days. It takes 10Y days to reach a height of 1625 meters. How long does it take for the bamboo to attain a height of 13 meters? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 9
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0031": {
+    "question": "A tree branch is falling, and with every 2X seconds, the total distance it covered triples. If it takes 10Y seconds for the branch to reach the ground, how long would it take for it to cover one 1/3 of the total distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0048": {
+    "question": "There is a flood occurring in a field. Every 4X days, the size of the flood-stricken area triples. If it takes 10Y hours for the entire field to become submerged, how many hours would it take for 1/3 of the field to be inundated? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 96
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0054": {
+    "question": "A section of grass is expanding within a garden, with the total area it occupies tripleing every 6X days. If it requires 8Y days for the entire garden to be encompassed by the grass, how many days are needed for the grass to cover 1/27 of the garden? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0057": {
+    "question": "A gas cylinder is experiencing a leak. Every 3X days, the total quantity of leaked  gas quintuples. If it requires 10Y hours for the entire gas to leak out, how much time is needed for 1/5 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 3
+    },
+    "proposed_answer": null,
+    "result": "UNPARSEABLE"
+  },
+  "crt_prob_0072": {
+    "question": "There is a heap of fruit that is decaying. The quantity of spoiled fruit doubles every 5X days. If it requires 10Y days for the entire heap to decay, how much time will it take for 1/8 of the heap to decay? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0085": {
+    "question": "In a room, there are rats whose population triples every 2X months. If it takes 9Y months for the rats to completely fill the room, how long would it take for them to occupy 1/9 of the room? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0097": {
+    "question": "A gas cylinder is experiencing a leak. Every 6X days, the total quantity of leaked  gas triples. If it requires 9Y hours for the entire gas to leak out, how much time is needed for 1/9 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0098": {
+    "question": "There is a flood occurring in a field. Every 2X days, the size of the flood-stricken area triples. If it takes 6Y hours for the entire field to become submerged, how many hours would it take for 1/3 of the field to be inundated? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 48
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0102": {
+    "question": "A gas cylinder is experiencing a leak. Every 6X days, the total quantity of leaked  gas doubles. If it requires 8Y hours for the entire gas to leak out, how much time is needed for 1/8 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 0,
+      "B": 18
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0103": {
+    "question": "People are escaping from war. Every 2X days, the total count of refugees quintuples. If it takes 8Y days for the entire population to evacuate, how long would it take for 1/25 of the population to do so? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0115": {
+    "question": "There is a flood occurring in a field. Every 2X days, the size of the flood-stricken area triples. If it takes 6Y hours for the entire field to become submerged, how many hours would it take for 1/27 of the field to be inundated? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 144
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0127": {
+    "question": "An elderly woman regularly feeds cats. Every 6X days, the number of cats she feeds quintuples. If she feeds 125 cats on the 8Y day, on which day does she feed 5 cats? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0137": {
+    "question": "An orange tree is sprouting leaves. The number of leaves quadruples every 2X months. Given that it takes 7Y months for the entire tree to be covered with leaves, how many months does it take for the tree to be 1/4 covered with leaves? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0139": {
+    "question": "An iceberg is forming and its surface doubles every 6X years. If the iceberg takes 8Y years to grow to 32 square miles, how many years are required for it to grow to 8 square miles? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  }
+}

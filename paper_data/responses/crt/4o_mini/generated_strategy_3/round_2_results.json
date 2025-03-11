@@ -1,0 +1,182 @@
+{
+  "crt_prob_0000": {
+    "question": "A dust cloud hovers above the city, doubleing in size every 6X days. If it takes 6Y days for the entire city to be engulfed by the cloud, how many days does it take for the cloud to cover 1/4 of the city? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0003": {
+    "question": "A dust cloud hovers above the city, doubleing in size every 2X days. If it takes 10Y days for the entire city to be engulfed by the cloud, how many days does it take for the cloud to cover 1/2 of the city? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 5,
+      "B": 2
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0004": {
+    "question": "Ants are crawling on a cake, and every 2X minutes, their population on the cake doubles. If the entire cake is covered with ants in 6Y minutes, how long would it take for 1/4 of the cake to be covered with ants? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 3,
+      "B": 4
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0023": {
+    "question": "A forest is expanding on an island, with the area occupied by the trees quadrupleing every 3X years. If it takes 9Y years for the entire island to be covered with trees, how many years would it take for the forest to cover 1/4 of the island? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": 3,
+      "B": 3
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0026": {
+    "question": "The wood is burning in a fireplace, and the temperature doubles every 5X minutes. If it takes 10Y minutes for the fireplace to reach a temperature of 64 degrees, how long does it take for the temperature to reach 8 degrees? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0037": {
+    "question": "Two painters are working on painting a house. With every 5X hours that pass, the total area they've painted quintuples. If it takes 10Y hours to paint the entire house, how many hours would it take for them to paint 1/125 of the house? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0057": {
+    "question": "A gas cylinder is experiencing a leak. Every 3X days, the total quantity of leaked  gas quintuples. If it requires 10Y hours for the entire gas to leak out, how much time is needed for 1/5 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0097": {
+    "question": "A gas cylinder is experiencing a leak. Every 6X days, the total quantity of leaked  gas triples. If it requires 9Y hours for the entire gas to leak out, how much time is needed for 1/9 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0098": {
+    "question": "There is a flood occurring in a field. Every 2X days, the size of the flood-stricken area triples. If it takes 6Y hours for the entire field to become submerged, how many hours would it take for 1/3 of the field to be inundated? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 48
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0102": {
+    "question": "A gas cylinder is experiencing a leak. Every 6X days, the total quantity of leaked  gas doubles. If it requires 8Y hours for the entire gas to leak out, how much time is needed for 1/8 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0112": {
+    "question": "A farmer is plowing a field. Every 2X hours, the total plowed area quintuples. If it takes 6Y hours for the entire field to be plowed, how long would it take for 1/5 of the field to be plowed? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0115": {
+    "question": "There is a flood occurring in a field. Every 2X days, the size of the flood-stricken area triples. If it takes 6Y hours for the entire field to become submerged, how many hours would it take for 1/27 of the field to be inundated? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 48,
+      "B": 144
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0124": {
+    "question": "A woman is in the process of growing her hair. Every 2X years, the length of her hair quintuples. If it takes 6Y years for her hair to achieve a length of 1625 meters, how long would it take for it to reach a length of 13 meter? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0143": {
+    "question": "There is a man who raises rabbits in a barn. Every 2X years, the rabbit population quintuples. If it takes 10Y years for the entire barn to become full of rabbits, how long does it take for the barn to be filled 1/125 way with rabbits? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 5,
+      "B": 6
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0149": {
+    "question": "An investor possesses 1 bitcoin. Every 3X days, their number of bitcoins quadruples. If it takes them 6Y days to achieve their investment target, how long would it take for them to reach 1/64 of that target? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 9
+    },
+    "result": "CORRECT"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "crt_prob_0007": {
+    "question": "There is a flood occurring in a field. Every 3X days, the size of the flood-stricken area triples. If it takes 7Y hours for the entire field to become submerged, how many hours would it take for 1/9 of the field to be inundated? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 0,
+      "B": 144
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0010": {
+    "question": "A gas cylinder is experiencing a leak. Every 6X days, the total quantity of leaked  gas quadruples. If it requires 7Y hours for the entire gas to leak out, how much time is needed for 1/64 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 432
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0014": {
+    "question": "A woman is in the process of growing her hair. Every 6X years, the length of her hair doubles. If it takes 9Y years for her hair to achieve a length of 112 meters, how long would it take for it to reach a length of 14 meter? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 18
+    },
+    "result": "CORRECT"
+  }
+}

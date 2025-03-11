@@ -1,0 +1,1799 @@
+{
+  "crt_prob_0000": {
+    "question": "A dust cloud hovers above the city, doubleing in size every 6X days. If it takes 6Y days for the entire city to be engulfed by the cloud, how many days does it take for the cloud to cover 1/4 of the city? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0001": {
+    "question": "A pot of water is boiling on the stove, and with every 2X hours, the overall volume of the evaporated water quadruples. If the entire pot takes 8Y hours to evaporate completely, how long does it take for 1/64 of the pot to evaporate? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0002": {
+    "question": "Five individuals are constructing a home. Every 6X weeks, the cumulative amount of bricks they place doubles. Given that it takes them 8Y weeks to lay all the bricks, determine the duration required for them to lay 1/8 of the bricks X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0003": {
+    "question": "A dust cloud hovers above the city, doubleing in size every 2X days. If it takes 10Y days for the entire city to be engulfed by the cloud, how many days does it take for the cloud to cover 1/2 of the city? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0004": {
+    "question": "Ants are crawling on a cake, and every 2X minutes, their population on the cake doubles. If the entire cake is covered with ants in 6Y minutes, how long would it take for 1/4 of the cake to be covered with ants? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0005": {
+    "question": "The apples are dropping from an apple tree, with the total count of fallen apples tripleing every 3X days. If it requires 8Y days for all the apples to drop, how many days would it take for 1/9 the apples to fall? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0006": {
+    "question": "An iceberg is forming and its surface quintuples every 2X years. If the iceberg takes 7Y years to grow to 875 square miles, how many years are required for it to grow to 7 square miles? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0007": {
+    "question": "An elderly woman regularly feeds cats. Every 5X days, the number of cats she feeds triples. If she feeds 117 cats on the 9Y day, on which day does she feed 13 cats? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 10
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 10
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0008": {
+    "question": "A factory is busy filling bags with chocolate cookies. The total number of bags filled quintuples every 6X hours. Given that it takes 6Y hours to fill all the bags, how much time is required to fill 1/5 of the bags? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0009": {
+    "question": "People are escaping from war. Every 4X days, the total count of refugees quintuples. If it takes 8Y days for the entire population to evacuate, how long would it take for 1/125 of the population to do so? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0010": {
+    "question": "The apples are dropping from an apple tree, with the total count of fallen apples quintupleing every 4X days. If it requires 8Y days for all the apples to drop, how many days would it take for 1/5 the apples to fall? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0011": {
+    "question": "A patient has been diagnosed with cancer, and the number of cancer cells quadruples every 5X weeks. If it takes 10Y weeks for the cancer cells to reach a critical amount, how long will it take for the cells to reach 1/4 of that critical amount? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 5
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 5
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0012": {
+    "question": "An elderly woman regularly feeds cats. Every 4X days, the number of cats she feeds triples. If she feeds 243 cats on the 10Y day, on which day does she feed 9 cats? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0013": {
+    "question": "Within a forest, there exists a tree that doubles its height every 3X years. If the tree attains its maximum height in 6Y years, determine the time it would take to achieve 1/2 of that maximum height. X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 3
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0014": {
+    "question": "The wood is burning in a fireplace, and the temperature doubles every 3X minutes. If it takes 7Y minutes for the fireplace to reach a temperature of 44 degrees, how long does it take for the temperature to reach 11 degrees? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0015": {
+    "question": "There is a heap of fruit that is decaying. The quantity of spoiled fruit doubles every 3X days. If it requires 10Y days for the entire heap to decay, how much time will it take for 1/2 of the heap to decay? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 3
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0016": {
+    "question": "Mushrooms are cultivated in a container, and their quantity quadruples every 6X days. Given that it takes 7Y days for the mushrooms to fill the entire container, determine the time needed to fill 1/4 of the container. X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0017": {
+    "question": "A barrel is being filled with whiskey, and the total volume of whiskey quintuples every 4X minutes. If it takes 6Y minutes to completely fill the barrel, how long would it take to fill 1/125 of it with whiskey? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0018": {
+    "question": "A colony of bacteria is growing on yogurt, and the size of the colony triples every 5X days. If it takes 7Y days for the colony to completely cover the yogurt, how many days does it take for the patch to cover 1/9 of the yogurt? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 10
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 10
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0019": {
+    "question": "Bamboo is growing in the garden, and its height triples every 5X days. It takes 6Y days to reach a height of 351 meters. How long does it take for the bamboo to attain a height of 13 meters? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0020": {
+    "question": "During winter, snowfall is occurring, and the depth of the snow cover quintuples every 4X hours. If it takes 8Y hours for the snow depth to reach 35 meters, how much time is required for it to reach a depth of 7 meter? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0021": {
+    "question": "Within a forest, there is a growing patch of ramson that quadruples in size every 5X weeks. If it takes 8Y weeks for the entire forest to be covered with ramson, how long would it take for the ramson to cover 1/64 of the forest? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0022": {
+    "question": "A fly is traveling from point A to point B. Every 3X hours, the total distance it covered doubles. If the fly reaches point B in 10Y hours, how long does it take for the fly to cover 1/8 of the distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 9
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0023": {
+    "question": "A forest is expanding on an island, with the area occupied by the trees quadrupleing every 3X years. If it takes 9Y years for the entire island to be covered with trees, how many years would it take for the forest to cover 1/4 of the island? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 3
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0024": {
+    "question": "Programmers are in the process of developing new software and every 3X months the total quantity of written code doubles. If it requires 10Y months to complete the entire code, how much time is needed to write 1/8 of the code? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 9
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0025": {
+    "question": "In a city, a virus is spreading, causing the total number of infected individuals to double every 4X days. If it takes 6Y days for the entire city's population to be infected, how many days would it require for 1/4 of the people to become infected? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 8
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 8
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0026": {
+    "question": "The wood is burning in a fireplace, and the temperature doubles every 5X minutes. If it takes 10Y minutes for the fireplace to reach a temperature of 64 degrees, how long does it take for the temperature to reach 8 degrees? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0027": {
+    "question": "Bamboo is growing in the garden, and its height quintuples every 3X days. It takes 10Y days to reach a height of 1625 meters. How long does it take for the bamboo to attain a height of 13 meters? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 9
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0028": {
+    "question": "Five individuals are constructing a home. Every 2X weeks, the cumulative amount of bricks they place triples. Given that it takes them 6Y weeks to lay all the bricks, determine the duration required for them to lay 1/3 of the bricks X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0029": {
+    "question": "A pandemic is occurring in a state where the total number of infected individuals doubles every 5X days. If it takes 7Y days for the entire state's population to become infected, how many days would it take for 1/8 of the state's population to be infected? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0030": {
+    "question": "A section of grass is expanding within a garden, with the total area it occupies tripleing every 2X days. If it requires 8Y days for the entire garden to be encompassed by the grass, how many days are needed for the grass to cover 1/9 of the garden? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0031": {
+    "question": "A tree branch is falling, and with every 2X seconds, the total distance it covered triples. If it takes 10Y seconds for the branch to reach the ground, how long would it take for it to cover one 1/3 of the total distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0032": {
+    "question": "Ants are crawling on a cake, and every 4X minutes, their population on the cake triples. If the entire cake is covered with ants in 8Y minutes, how long would it take for 1/9 of the cake to be covered with ants? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 8
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 8
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0033": {
+    "question": "Two painters are working on painting a house. With every 2X hours that pass, the total area they've painted quadruples. If it takes 7Y hours to paint the entire house, how many hours would it take for them to paint 1/4 of the house? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0034": {
+    "question": "In a cave, there is a colony of bats with a population which doubles every 4X days. Given that it takes 6Y days for the entire cave to be filled with bats, how many days would it take for the cave to be 1/4 -filled with bats? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 8
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 8
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0035": {
+    "question": "A pot of water is boiling on the stove, and with every 5X hours, the overall volume of the evaporated water triples. If the entire pot takes 9Y hours to evaporate completely, how long does it take for 1/3 of the pot to evaporate? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 5
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 5
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0036": {
+    "question": "A tree branch is falling, and with every 2X seconds, the total distance it covered doubles. If it takes 10Y seconds for the branch to reach the ground, how long would it take for it to cover one 1/8 of the total distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0037": {
+    "question": "Two painters are working on painting a house. With every 5X hours that pass, the total area they've painted quintuples. If it takes 10Y hours to paint the entire house, how many hours would it take for them to paint 1/125 of the house? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0038": {
+    "question": "There is a section of mold on a bread loaf that doubles in size every 4X hours. If it takes 8Y hours for the mold to completely cover the bread, how much time is needed for the mold to cover 1/2 of the bread? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0039": {
+    "question": "An investor possesses 1 bitcoin. Every 4X days, their number of bitcoins triples. If it takes them 6Y days to achieve their investment target, how long would it take for them to reach 1/3 of that target? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0040": {
+    "question": "Fish inhabit a creek, and their population quintuples every 3X weeks. If it requires 8Y weeks for the entire creek to become completely filled with fish, how long would it take to fill 1/25 of the creek with fish? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0041": {
+    "question": "An orange tree is sprouting leaves. The number of leaves quadruples every 6X months. Given that it takes 10Y months for the entire tree to be covered with leaves, how many months does it take for the tree to be 1/4 covered with leaves? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0042": {
+    "question": "There is a sick student in the class. Every 2X days, the number of sick students quadruples. If it takes 8Y days for the entire class to become sick, how many days does it take for 1/64 of the class to become sick? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0043": {
+    "question": "In a room, there are rats whose population quadruples every 6X months. If it takes 8Y months for the rats to completely fill the room, how long would it take for them to occupy 1/64 of the room? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0044": {
+    "question": "A moss patch is expanding on a rock, doubleing its size every 2X days. It takes 7Y days for the moss to completely cover the rock. How many days are required for the moss to cover 1/4 of the rock? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0045": {
+    "question": "The apples are dropping from an apple tree, with the total count of fallen apples quintupleing every 4X days. If it requires 9Y days for all the apples to drop, how many days would it take for 1/5 the apples to fall? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0046": {
+    "question": "Programmers are in the process of developing new software and every 2X months the total quantity of written code triples. If it requires 9Y months to complete the entire code, how much time is needed to write 1/9 of the code? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0047": {
+    "question": "Two painters are working on painting a house. With every 2X hours that pass, the total area they've painted doubles. If it takes 10Y hours to paint the entire house, how many hours would it take for them to paint 1/8 of the house? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0048": {
+    "question": "There is a flood occurring in a field. Every 4X days, the size of the flood-stricken area triples. If it takes 10Y hours for the entire field to become submerged, how many hours would it take for 1/3 of the field to be inundated? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 96
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0049": {
+    "question": "There is a sick student in the class. Every 4X days, the number of sick students quintuples. If it takes 10Y days for the entire class to become sick, how many days does it take for 1/25 of the class to become sick? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 8
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 8
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0050": {
+    "question": "Beneath a tree, there is a heap of leaves that quadruples in size every 4X weeks. If it takes 8Y weeks for the pile to attain a height of 48 meters, how much time is required for it to reach a height of 12 meters? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0051": {
+    "question": "Within a forest, there is a growing patch of ramson that doubles in size every 2X weeks. If it takes 10Y weeks for the entire forest to be covered with ramson, how long would it take for the ramson to cover 1/8 of the forest? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0052": {
+    "question": "A dust cloud hovers above the city, tripleing in size every 2X days. If it takes 6Y days for the entire city to be engulfed by the cloud, how many days does it take for the cloud to cover 1/9 of the city? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0053": {
+    "question": "It is currently raining, causing the lake to fill up with water. The volume of water in the lake doubles every 2X days. If it takes a total of 8Y days for the lake to become completely filled, how many days would it take for the lake to reach 1/8 way to being full? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0054": {
+    "question": "A section of grass is expanding within a garden, with the total area it occupies tripleing every 6X days. If it requires 8Y days for the entire garden to be encompassed by the grass, how many days are needed for the grass to cover 1/27 of the garden? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0055": {
+    "question": "Mushrooms are cultivated in a container, and their quantity quintuples every 6X days. Given that it takes 7Y days for the mushrooms to fill the entire container, determine the time needed to fill 1/125 of the container. X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0056": {
+    "question": "A tree branch is falling, and with every 3X seconds, the total distance it covered triples. If it takes 10Y seconds for the branch to reach the ground, how long would it take for it to cover one 1/9 of the total distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0057": {
+    "question": "A gas cylinder is experiencing a leak. Every 3X days, the total quantity of leaked  gas quintuples. If it requires 10Y hours for the entire gas to leak out, how much time is needed for 1/5 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": null,
+      "B": null
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0058": {
+    "question": "There is a heap of fruit that is decaying. The quantity of spoiled fruit quintuples every 5X days. If it requires 6Y days for the entire heap to decay, how much time will it take for 1/125 of the heap to decay? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0059": {
+    "question": "A factory is busy filling bags with chocolate cookies. The total number of bags filled doubles every 5X hours. Given that it takes 8Y hours to fill all the bags, how much time is required to fill 1/4 of the bags? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 10
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 10
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0060": {
+    "question": "There is a freezer filled with food, and the total volume of the frozen food triples every 3X hours. If it takes 10Y hours for all the food to become frozen, how long would it take to freeze 1/9 of the food? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0061": {
+    "question": "Fish inhabit a creek, and their population triples every 4X weeks. If it requires 10Y weeks for the entire creek to become completely filled with fish, how long would it take to fill 1/3 of the creek with fish? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0062": {
+    "question": "Within a forest, there exists a tree that quintuples its height every 3X years. If the tree attains its maximum height in 6Y years, determine the time it would take to achieve 1/5 of that maximum height. X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 3
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0063": {
+    "question": "A farmer is plowing a field. Every 4X hours, the total plowed area doubles. If it takes 9Y hours for the entire field to be plowed, how long would it take for 1/2 of the field to be plowed? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0064": {
+    "question": "A woman is in the process of growing her hair. Every 5X years, the length of her hair quadruples. If it takes 10Y years for her hair to achieve a length of 80 meters, how long would it take for it to reach a length of 5 meter? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 10
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 10
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0065": {
+    "question": "A woman is in the process of growing her hair. Every 2X years, the length of her hair triples. If it takes 8Y years for her hair to achieve a length of 351 meters, how long would it take for it to reach a length of 13 meter? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0066": {
+    "question": "A grandmother is knitting a scarf for her grandson. Every 3X weeks, the scarf's length quintuples. If it takes 7Y weeks to complete the entire scarf, how long would it take to knit 1/5 of the scarf? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 3
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0067": {
+    "question": "In a cave, there is a colony of bats with a population which triples every 2X days. Given that it takes 8Y days for the entire cave to be filled with bats, how many days would it take for the cave to be 1/3 -filled with bats? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0068": {
+    "question": "A colony of bacteria is growing on yogurt, and the size of the colony triples every 5X days. If it takes 7Y days for the colony to completely cover the yogurt, how many days does it take for the patch to cover 1/27 of the yogurt? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0069": {
+    "question": "People are walking into a theater and taking their seats. The number of people in the room quintuples every 6X minutes. If it takes 6Y minutes for all of the seats to be taken, how long does it take for 1/5 of the seats to be taken? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0070": {
+    "question": "A forest is engulfed in flames. Every 4X days, the overall area of the scorched forest quintuples in size. If it takes 9Y days for the entire forest to be consumed by the fire, how many days would it take for 1/5 of the forest to be burnt? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0071": {
+    "question": "It is currently raining, causing the lake to fill up with water. The volume of water in the lake triples every 5X days. If it takes a total of 10Y days for the lake to become completely filled, how many days would it take for the lake to reach 1/3 way to being full? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 5
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 5
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0072": {
+    "question": "There is a heap of fruit that is decaying. The quantity of spoiled fruit doubles every 5X days. If it requires 10Y days for the entire heap to decay, how much time will it take for 1/8 of the heap to decay? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0073": {
+    "question": "Fish are migrating and every 3X days, the total distance they cover triples. If it takes the fish 7Y days to reach their destination, how many days would it take for them to cover 1/3 the distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 3
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0074": {
+    "question": "A section of grass is expanding within a garden, with the total area it occupies doubleing every 4X days. If it requires 10Y days for the entire garden to be encompassed by the grass, how many days are needed for the grass to cover 1/8 of the garden? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0075": {
+    "question": "There is a section of mold on a bread loaf that quadruples in size every 2X hours. If it takes 8Y hours for the mold to completely cover the bread, how much time is needed for the mold to cover 1/64 of the bread? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0076": {
+    "question": "A new concrete pavement is drying. The overall area of dried concrete doubles every 6X days. If it requires 7Y days for the entire pavement to dry completely, how many days does it take for 1/2 the pavement to become dry? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0077": {
+    "question": "In a cave, there is a colony of bats with a population which doubles every 6X days. Given that it takes 8Y days for the entire cave to be filled with bats, how many days would it take for the cave to be 1/4 -filled with bats? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0078": {
+    "question": "During winter, the lake is gradually freezing. Every 5X days, the ice covering the lake's surface quintuples in size. If it takes 6Y days for the entire surface of the lake to freeze, how long does it take for 1/125 of the lake's surface to become frozen? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0079": {
+    "question": "An investor possesses 1 bitcoin. Every 4X days, their number of bitcoins triples. If it takes them 9Y days to achieve their investment target, how long would it take for them to reach 1/3 of that target? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0080": {
+    "question": "A grandmother is knitting a scarf for her grandson. Every 6X weeks, the scarf's length quintuples. If it takes 8Y weeks to complete the entire scarf, how long would it take to knit 1/125 of the scarf? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0081": {
+    "question": "A forest is engulfed in flames. Every 2X days, the overall area of the scorched forest triples in size. If it takes 8Y days for the entire forest to be consumed by the fire, how many days would it take for 1/3 of the forest to be burnt? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0082": {
+    "question": "There is a man who raises rabbits in a barn. Every 6X years, the rabbit population doubles. If it takes 8Y years for the entire barn to become full of rabbits, how long does it take for the barn to be filled 1/2 way with rabbits? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0083": {
+    "question": "There is a man who raises rabbits in a barn. Every 5X years, the rabbit population quintuples. If it takes 7Y years for the entire barn to become full of rabbits, how long does it take for the barn to be filled 1/25 way with rabbits? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 10
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 10
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0084": {
+    "question": "A pandemic is occurring in a state where the total number of infected individuals quadruples every 4X days. If it takes 8Y days for the entire state's population to become infected, how many days would it take for 1/16 of the state's population to be infected? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 8
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 8
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0085": {
+    "question": "In a room, there are rats whose population triples every 2X months. If it takes 9Y months for the rats to completely fill the room, how long would it take for them to occupy 1/9 of the room? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0086": {
+    "question": "A moss patch is expanding on a rock, tripleing its size every 4X days. It takes 7Y days for the moss to completely cover the rock. How many days are required for the moss to cover 1/9 of the rock? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 8
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 8
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0087": {
+    "question": "Five individuals are constructing a home. Every 2X weeks, the cumulative amount of bricks they place quintuples. Given that it takes them 7Y weeks to lay all the bricks, determine the duration required for them to lay 1/125 of the bricks X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0088": {
+    "question": "Within a forest, there exists a tree that quintuples its height every 6X years. If the tree attains its maximum height in 10Y years, determine the time it would take to achieve 1/5 of that maximum height. X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0089": {
+    "question": "A pot of water is boiling on the stove, and with every 6X hours, the overall volume of the evaporated water quintuples. If the entire pot takes 8Y hours to evaporate completely, how long does it take for 1/125 of the pot to evaporate? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0090": {
+    "question": "It is currently raining, causing the lake to fill up with water. The volume of water in the lake doubles every 6X days. If it takes a total of 10Y days for the lake to become completely filled, how many days would it take for the lake to reach 1/8 way to being full? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0091": {
+    "question": "There is a section of mold on a bread loaf that doubles in size every 5X hours. If it takes 6Y hours for the mold to completely cover the bread, how much time is needed for the mold to cover 1/8 of the bread? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0092": {
+    "question": "A barrel is being filled with whiskey, and the total volume of whiskey triples every 4X minutes. If it takes 8Y minutes to completely fill the barrel, how long would it take to fill 1/9 of it with whiskey? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 8
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 8
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0093": {
+    "question": "An iceberg is forming and its surface quintuples every 4X years. If the iceberg takes 8Y years to grow to 200 square miles, how many years are required for it to grow to 8 square miles? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 8
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 8
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0094": {
+    "question": "Fish are migrating and every 3X days, the total distance they cover quadruples. If it takes the fish 10Y days to reach their destination, how many days would it take for them to cover 1/64 the distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 9
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0095": {
+    "question": "A forest is expanding on an island, with the area occupied by the trees quintupleing every 3X years. If it takes 6Y years for the entire island to be covered with trees, how many years would it take for the forest to cover 1/5 of the island? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 3
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0096": {
+    "question": "A colony of bacteria is growing on yogurt, and the size of the colony doubles every 2X days. If it takes 7Y days for the colony to completely cover the yogurt, how many days does it take for the patch to cover 1/8 of the yogurt? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0097": {
+    "question": "A gas cylinder is experiencing a leak. Every 6X days, the total quantity of leaked  gas triples. If it requires 9Y hours for the entire gas to leak out, how much time is needed for 1/9 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 288
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0098": {
+    "question": "There is a flood occurring in a field. Every 2X days, the size of the flood-stricken area triples. If it takes 6Y hours for the entire field to become submerged, how many hours would it take for 1/3 of the field to be inundated? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 48
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0099": {
+    "question": "A factory is busy filling bags with chocolate cookies. The total number of bags filled doubles every 6X hours. Given that it takes 9Y hours to fill all the bags, how much time is required to fill 1/2 of the bags? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0100": {
+    "question": "A fly is traveling from point A to point B. Every 3X hours, the total distance it covered triples. If the fly reaches point B in 7Y hours, how long does it take for the fly to cover 1/9 of the distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0101": {
+    "question": "A forest is expanding on an island, with the area occupied by the trees tripleing every 5X years. If it takes 9Y years for the entire island to be covered with trees, how many years would it take for the forest to cover 1/27 of the island? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0102": {
+    "question": "A gas cylinder is experiencing a leak. Every 6X days, the total quantity of leaked  gas doubles. If it requires 8Y hours for the entire gas to leak out, how much time is needed for 1/8 of the gas to escape? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 18
+    },
+    "proposed_answer": null,
+    "result": "UNPARSEABLE"
+  },
+  "crt_prob_0103": {
+    "question": "People are escaping from war. Every 2X days, the total count of refugees quintuples. If it takes 8Y days for the entire population to evacuate, how long would it take for 1/25 of the population to do so? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0104": {
+    "question": "A grandmother is knitting a scarf for her grandson. Every 2X weeks, the scarf's length doubles. If it takes 9Y weeks to complete the entire scarf, how long would it take to knit 1/2 of the scarf? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0105": {
+    "question": "Ants are crawling on a cake, and every 2X minutes, their population on the cake quintuples. If the entire cake is covered with ants in 9Y minutes, how long would it take for 1/5 of the cake to be covered with ants? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0106": {
+    "question": "People are walking into a theater and taking their seats. The number of people in the room quadruples every 3X minutes. If it takes 8Y minutes for all of the seats to be taken, how long does it take for 1/4 of the seats to be taken? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 3
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 3
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0107": {
+    "question": "An orange tree is sprouting leaves. The number of leaves quintuples every 3X months. Given that it takes 10Y months for the entire tree to be covered with leaves, how many months does it take for the tree to be 1/25 covered with leaves? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0108": {
+    "question": "A fly is traveling from point A to point B. Every 5X hours, the total distance it covered triples. If the fly reaches point B in 9Y hours, how long does it take for the fly to cover 1/3 of the distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 5
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 5
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0109": {
+    "question": "Programmers are in the process of developing new software and every 4X months the total quantity of written code quadruples. If it requires 10Y months to complete the entire code, how much time is needed to write 1/64 of the code? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0110": {
+    "question": "In a fish tank, some algae are present. Every 5X days, the quantity of algae quintuples. If it requires 10Y days for the entire fish tank to become filled with algae, how much time is needed for 1/5 of the fish tank to be filled with algae? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 5
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 5
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0111": {
+    "question": "People are escaping from war. Every 4X days, the total count of refugees triples. If it takes 8Y days for the entire population to evacuate, how long would it take for 1/27 of the population to do so? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0112": {
+    "question": "A farmer is plowing a field. Every 2X hours, the total plowed area quintuples. If it takes 6Y hours for the entire field to be plowed, how long would it take for 1/5 of the field to be plowed? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0113": {
+    "question": "Beneath a tree, there is a heap of leaves that doubles in size every 5X weeks. If it takes 9Y weeks for the pile to attain a height of 88 meters, how much time is required for it to reach a height of 11 meters? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0114": {
+    "question": "Fish are migrating and every 6X days, the total distance they cover triples. If it takes the fish 9Y days to reach their destination, how many days would it take for them to cover 1/9 the distance? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0115": {
+    "question": "There is a flood occurring in a field. Every 2X days, the size of the flood-stricken area triples. If it takes 6Y hours for the entire field to become submerged, how many hours would it take for 1/27 of the field to be inundated? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 144
+    },
+    "result": "INCORRECT"
+  },
+  "crt_prob_0116": {
+    "question": "In a room, there are rats whose population quintuples every 3X months. If it takes 7Y months for the rats to completely fill the room, how long would it take for them to occupy 1/25 of the room? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0117": {
+    "question": "A forest is engulfed in flames. Every 6X days, the overall area of the scorched forest quintuples in size. If it takes 9Y days for the entire forest to be consumed by the fire, how many days would it take for 1/125 of the forest to be burnt? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0118": {
+    "question": "A pandemic is occurring in a state where the total number of infected individuals quintuples every 6X days. If it takes 9Y days for the entire state's population to become infected, how many days would it take for 1/25 of the state's population to be infected? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0119": {
+    "question": "In a fish tank, some algae are present. Every 4X days, the quantity of algae quadruples. If it requires 9Y days for the entire fish tank to become filled with algae, how much time is needed for 1/64 of the fish tank to be filled with algae? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0120": {
+    "question": "In a city, a virus is spreading, causing the total number of infected individuals to double every 4X days. If it takes 6Y days for the entire city's population to be infected, how many days would it require for 1/2 of the people to become infected? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 4
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 4
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0121": {
+    "question": "A barrel is being filled with whiskey, and the total volume of whiskey doubles every 3X minutes. If it takes 8Y minutes to completely fill the barrel, how long would it take to fill 1/4 of it with whiskey? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0122": {
+    "question": "During winter, the lake is gradually freezing. Every 3X days, the ice covering the lake's surface quintuples in size. If it takes 6Y days for the entire surface of the lake to freeze, how long does it take for 1/25 of the lake's surface to become frozen? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0123": {
+    "question": "There is a freezer filled with food, and the total volume of the frozen food triples every 3X hours. If it takes 7Y hours for all the food to become frozen, how long would it take to freeze 1/9 of the food? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0124": {
+    "question": "A woman is in the process of growing her hair. Every 2X years, the length of her hair quintuples. If it takes 6Y years for her hair to achieve a length of 1625 meters, how long would it take for it to reach a length of 13 meter? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0125": {
+    "question": "Bamboo is growing in the garden, and its height quintuples every 3X days. It takes 6Y days to reach a height of 150 meters. How long does it take for the bamboo to attain a height of 6 meters? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0126": {
+    "question": "During winter, the lake is gradually freezing. Every 5X days, the ice covering the lake's surface quadruples in size. If it takes 10Y days for the entire surface of the lake to freeze, how long does it take for 1/4 of the lake's surface to become frozen? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 5
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 5
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0127": {
+    "question": "An elderly woman regularly feeds cats. Every 6X days, the number of cats she feeds quintuples. If she feeds 125 cats on the 8Y day, on which day does she feed 5 cats? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0128": {
+    "question": "Beneath a tree, there is a heap of leaves that triples in size every 3X weeks. If it takes 10Y weeks for the pile to attain a height of 162 meters, how much time is required for it to reach a height of 6 meters? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 9
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0129": {
+    "question": "A new concrete pavement is drying. The overall area of dried concrete triples every 5X days. If it requires 7Y days for the entire pavement to dry completely, how many days does it take for 1/3 the pavement to become dry? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 5
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 5
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0130": {
+    "question": "Fish inhabit a creek, and their population doubles every 3X weeks. If it requires 9Y weeks for the entire creek to become completely filled with fish, how long would it take to fill 1/8 of the creek with fish? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 9
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0131": {
+    "question": "There is a sick student in the class. Every 6X days, the number of sick students quadruples. If it takes 7Y days for the entire class to become sick, how many days does it take for 1/64 of the class to become sick? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0132": {
+    "question": "In a city, a virus is spreading, causing the total number of infected individuals to quintuple every 4X days. If it takes 9Y days for the entire city's population to be infected, how many days would it require for 1/125 of the people to become infected? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0133": {
+    "question": "People are walking into a theater and taking their seats. The number of people in the room doubles every 3X minutes. If it takes 10Y minutes for all of the seats to be taken, how long does it take for 1/8 of the seats to be taken? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 9
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0134": {
+    "question": "In a fish tank, some algae are present. Every 6X days, the quantity of algae quintuples. If it requires 7Y days for the entire fish tank to become filled with algae, how much time is needed for 1/5 of the fish tank to be filled with algae? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0135": {
+    "question": "A patient has been diagnosed with cancer, and the number of cancer cells quadruples every 6X weeks. If it takes 8Y weeks for the cancer cells to reach a critical amount, how long will it take for the cells to reach 1/4 of that critical amount? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0136": {
+    "question": "Mushrooms are cultivated in a container, and their quantity triples every 4X days. Given that it takes 7Y days for the mushrooms to fill the entire container, determine the time needed to fill 1/9 of the container. X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 8
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 8
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0137": {
+    "question": "An orange tree is sprouting leaves. The number of leaves quadruples every 2X months. Given that it takes 7Y months for the entire tree to be covered with leaves, how many months does it take for the tree to be 1/4 covered with leaves? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0138": {
+    "question": "A moss patch is expanding on a rock, tripleing its size every 6X days. It takes 7Y days for the moss to completely cover the rock. How many days are required for the moss to cover 1/27 of the rock? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 18
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 18
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0139": {
+    "question": "An iceberg is forming and its surface doubles every 6X years. If the iceberg takes 8Y years to grow to 32 square miles, how many years are required for it to grow to 8 square miles? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 12
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 12
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0140": {
+    "question": "Within a forest, there is a growing patch of ramson that quadruples in size every 3X weeks. If it takes 7Y weeks for the entire forest to be covered with ramson, how long would it take for the ramson to cover 1/16 of the forest? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0141": {
+    "question": "A new concrete pavement is drying. The overall area of dried concrete quintuples every 3X days. If it requires 7Y days for the entire pavement to dry completely, how many days does it take for 1/25 the pavement to become dry? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0142": {
+    "question": "A patient has been diagnosed with cancer, and the number of cancer cells quintuples every 3X weeks. If it takes 8Y weeks for the cancer cells to reach a critical amount, how long will it take for the cells to reach 1/25 of that critical amount? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0143": {
+    "question": "There is a man who raises rabbits in a barn. Every 2X years, the rabbit population quintuples. If it takes 10Y years for the entire barn to become full of rabbits, how long does it take for the barn to be filled 1/125 way with rabbits? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0144": {
+    "question": "There is a freezer filled with food, and the total volume of the frozen food doubles every 2X hours. If it takes 7Y hours for all the food to become frozen, how long would it take to freeze 1/8 of the food? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 7,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 7,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0145": {
+    "question": "During winter, snowfall is occurring, and the depth of the snow cover quadruples every 3X hours. If it takes 8Y hours for the snow depth to reach 80 meters, how much time is required for it to reach a depth of 5 meter? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 8,
+      "B": 6
+    },
+    "proposed_answer": {
+      "A": 8,
+      "B": 6
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0146": {
+    "question": "A farmer is plowing a field. Every 5X hours, the total plowed area triples. If it takes 9Y hours for the entire field to be plowed, how long would it take for 1/27 of the field to be plowed? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 15
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 15
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0147": {
+    "question": "During winter, snowfall is occurring, and the depth of the snow cover quadruples every 3X hours. If it takes 10Y hours for the snow depth to reach 512 meters, how much time is required for it to reach a depth of 8 meter? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 10,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 10,
+      "B": 9
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0148": {
+    "question": "The wood is burning in a fireplace, and the temperature quintuples every 2X minutes. If it takes 9Y minutes for the fireplace to reach a temperature of 30 degrees, how long does it take for the temperature to reach 6 degrees? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 9,
+      "B": 2
+    },
+    "proposed_answer": {
+      "A": 9,
+      "B": 2
+    },
+    "result": "CORRECT"
+  },
+  "crt_prob_0149": {
+    "question": "An investor possesses 1 bitcoin. Every 3X days, their number of bitcoins quadruples. If it takes them 6Y days to achieve their investment target, how long would it take for them to reach 1/64 of that target? X and Y are both numbers, you can use them to represent the final answer. Please think step by step.",
+    "answer": {
+      "A": 6,
+      "B": 9
+    },
+    "proposed_answer": {
+      "A": 6,
+      "B": 9
+    },
+    "result": "CORRECT"
+  }
+}

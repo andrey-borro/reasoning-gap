@@ -1,0 +1,1 @@
+{"prob_0042": ["o1-preview-2024-09-12", ["(unstack e f)", "(putdown e)", "(unstack f d)", "(putdown f)", "(pickup e)", "(stack e f)", "(unstack d a)", "(stack d e)", "(unstack a c)", "(putdown a)", "(pickup c)", "(stack c d)", "(pickup b)", "(stack b c)", "(pickup a)", "(stack a b)"]]}
